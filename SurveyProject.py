@@ -10,7 +10,7 @@ print "Your answers are "
 print "How was your first day of programming? (Bad, Good, Excellent): " + question_one
 print "Are you excited to continue onto the next lesson? (Yes, No): " + question_two
 print "Was the atmosphere pleasant for learning? (Good, Bad): " + question_three
-print "Did you have any programming experience befor? (Yes, No): " + question_four
+print "Did you have any programming experience before? (Yes, No): " + question_four
 print "Please supply any additional comments you have: " + question_five
 print ""
 qustion_six = input("Please confirm your answers (Press 1 for Yes or Press 2 for NO): ")

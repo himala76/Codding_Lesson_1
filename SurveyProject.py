@@ -9,7 +9,7 @@ print ""
 print "Your answers are "
 print "How was your first day of programming? (Bad, Good, Excellent): " + question_one
 print "Are you excited to continue onto the next lesson? (Yes, No): " + question_two
-print "Was the atmosphere pleasant for learning? (Yes, Bad): " + question_three
+print "Was the atmosphere pleasant for learning? (Good, Bad): " + question_three
 print "Did you have any programming experience befor? (Yes, No): " + question_four
 print "Please supply any additional comments you have: " + question_five
 print ""

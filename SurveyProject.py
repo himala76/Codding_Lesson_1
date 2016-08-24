@@ -16,6 +16,8 @@ print ""
 qustion_six = input("Please confirm your answers (Press 1 for Yes or Press 2 for NO): ")
 
 if qustion_six == 1 :
+                print ""
                 print "Thank you for your valuable time"
 elif qustion_six == 2 :
+                print ""
                 print "Please start again, Thank You"

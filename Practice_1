@@ -1,0 +1,2 @@
+# use the type function to print the type of the follwing sentence without variable
+print type("intro to program is going to be awesome")

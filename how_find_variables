@@ -1,0 +1,20 @@
+# this program show how to find variables
+
+#Interger Variables
+my_int  =   1
+
+#Float Variables
+my_float    =   1.5
+
+#String Variables
+my_string   =   "hello"
+
+#boolean Variables
+my_boolean  =   True
+
+#find Variables
+
+print type(my_int)
+print type(my_float)
+print type(my_string)
+print type(my_boolean)

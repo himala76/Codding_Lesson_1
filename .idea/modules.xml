@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Codding_Class_Lesson_2/.idea/Codding_Class_Lesson_2.iml" filepath="$PROJECT_DIR$/../Codding_Class_Lesson_2/.idea/Codding_Class_Lesson_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Codding_Lesson_1.iml" filepath="$PROJECT_DIR$/.idea/Codding_Lesson_1.iml" />
     </modules>
   </component>
